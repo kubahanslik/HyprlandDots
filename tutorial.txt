@@ -1,0 +1,5 @@
+install requirements
+
+install nerdfonts
+change hyprpaper path
+change hyprlock path

@@ -1,0 +1,14 @@
+# Hyprland ecosystem
+sudo pacman -S hyprland, alacritty, hyprpaper, rofi
+
+
+# Hyprpanel
+yay -S ags-hyprpanel-git
+sudo pacman -S --needed wireplumber libgtop bluez bluez-utils btop networkmanager dart-sass wl-clipboard brightnessctl swww python upower pacman-contrib power-profiles-daemon gvfs wf-recorder
+yay -S --needed aylurs-gtk-shell-git grimblast-git hyprpicker matugen-bin python-gpustat hyprsunset-git
+
+# Hyprlock
+sudo pacman -S hyprlock, hypridle
+
+
+sudo pacman -S xdg-desktop-portal-hyprland, hyprpolkitagent
